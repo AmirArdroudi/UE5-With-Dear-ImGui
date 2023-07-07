@@ -17,3 +17,7 @@ This project was built as part of [this 25 minute YouTube tutorial](https://yout
 
 * A copy of this [UnrealImGui Plugin Fork](https://github.com/benui-dev/UnrealImGui) is included with this repo. (Retrieved on May 15, 2022)
 * For more info see [this code example](https://github.com/segross/UnrealImGui/issues/12#issuecomment-450865442).
+
+## Fix and Updates (AmirArdroudi)
+* Fix compile errors
+* Working with Unreal Engine 5.2
